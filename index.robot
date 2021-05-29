@@ -47,4 +47,4 @@ UpdateThongTinCaNhan
 
     click element    xpath=//button[@type="submit"]
 
-#    Test Push 123
+#    Test Push Success
