@@ -1,0 +1,14 @@
+{
+    "name": "Automation-Testing-VL24H",
+    "version": "1.0.0",
+    "description": "Automation-Testing-VL24H",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "start": "robot -d results index.robot"
+    },
+    "keywords": [],
+    "author": "QuocBaoo & ThuyTun",
+    "license": "ISC"
+}
